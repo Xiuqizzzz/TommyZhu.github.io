@@ -6,6 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Second-Year Ph.D. student at Northeastern_CAMD. , advised by Prof. Eileen McGivney. My research interest lies in the interdisciplinary area of Human-Computer Interaction+XR+Education Computing in designing XR System to help teacher in their Decision-Making and Hybrid Communication to foster an equitable, inclusive, and effective learning context. I plan to integrate Large Language Models (LLMs) into the XR context to make every interactive educational element smart, memorable, and personable, adapting it to truly individualized and tailor-made learning.
+
+​
+
+I have been honored to do research with various amazing advisors, such as the Future Lab (Prof. YangJiao &  Prof. Yingqing Xu), CAS Key Laboratory of Behavioral Science (Prof. Jingyu Zhang), and the LDC Lab (Prof. Min Fan). I have also interned at Lark Suite-People as a UX researcher. I received my bachelor's degree of Digital Media Arts from the Communication University of China. My works have won numerous awards in art and design competitions and had been exhibited in multiple art galleries.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
