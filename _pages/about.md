@@ -11,4 +11,4 @@ I am a Second-Year Ph.D. student at Northeastern_CAMD. , advised by Prof. [Eilee
 ​
 I have been honored to do research with various amazing advisors, such as the Future Lab (Prof.[YangJiao](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/r/Resercher/Yang_Jiao.htm) &  Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm)), Tsinghua University, and the LDC Lab (Prof.[Min Fan](https://scholar.google.com/citations?user=r43qpoUAAAAJ&hl=en)), Communication University of China. I have also interned at Lark Suite-People as a UX researcher. I received my bachelor's degree of Digital Media Arts from the Communication University of China. My works have won numerous awards in art and design competitions and had been exhibited in multiple art galleries.
 
-
+You can find my CV here :[Tommy's CV]
